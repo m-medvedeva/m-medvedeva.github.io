@@ -13,7 +13,7 @@
 }
 
 @font-face {
-   font-family: '../fonts/_Graphik';
+   font-family: '_Graphik';
    src: url('_Graphik-600.woff2') format('woff');
    font-weight: 600;
    font-style: normal;
