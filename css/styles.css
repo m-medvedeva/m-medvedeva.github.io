@@ -432,4 +432,10 @@ body {
   .fixed-body {
     overflow: hidden;
   }
+  
+  .amount-block {
+    top: 0;
+    right:0;
+    margin: 0 auto;
+  }
 }/*# sourceMappingURL=styles.css.map */
